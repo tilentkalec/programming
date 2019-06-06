@@ -1,0 +1,73 @@
+h1 /* tako izberem vse h1 tagge */
+{
+      color: red;
+}
+
+#naslov {
+color: blue;
+}
+
+.moj-klass {
+    color: green;
+}
+
+.image:hover {
+   border: 6px black dotted;
+   padding: 5px;
+}
+
+#navigation
+{
+   background-color: red;
+   height: 50 px;
+   width: auto;
+}
+
+#main
+{
+   background-color: aquamarine;
+   width: 200px;
+   margin: 0 auto 20px;
+   height: 50px;
+}
+
+.move
+{
+   background-color: gold;
+   margin: 200px;
+   padding: 200px;
+}
+
+.relative1
+{
+     background-color: green;
+     position: relative;
+     width: 300px;
+     height: 50px;
+}
+
+.relative2
+{
+     background-color: lightblue;
+     position: relative
+     top: -20px;
+     left: 20px;
+     width: 200px;
+     height: 50px;
+}
+
+#cookie
+{
+     position: fixed;
+     bottom: 0;
+     right: 0;
+     width: 200px;
+     height: 30px;
+     background-color: purple;
+}
+
+.inline
+{
+    background-color: brown;
+    display: inline-block;
+}

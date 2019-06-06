@@ -1,0 +1,70 @@
+.navigator {
+  position: absolute;
+  right: 2%;
+  top: 2%;
+}
+
+.button {
+    background-color: 	#4169E1;
+    color: white;
+}
+
+.main {
+   position: absolute;
+   top: 30%;
+   bottom: 60%;
+   left: 38%;
+   right: 42%;
+}
+
+.iskanje {
+   position: absolute;
+   top: 50%;
+   left: 30%;
+   padding: 0 40px;
+   margin: 0 40px;
+}
+
+#text {
+   position: absolute;
+   top: 49%;
+   left: 42.5%;
+}
+
+.gumb {
+     position: absolute;
+     top: 55%;
+     left: 41%;
+}
+
+.gumb2 {
+     position: absolute;
+     top: 55%;
+     left: 50%;
+}
+
+#jezik {
+   position: absolute;
+   top: 60%;
+   left: 41%;
+}
+
+#spodajlevo {
+    position: fixed;
+    left: 2%;
+    bottom: 2%;
+}
+
+#spodajdesno {
+    position: fixed;
+    right: 2%;
+    bottom: 2%;
+}
+
+
+
+
+
+
+
+
